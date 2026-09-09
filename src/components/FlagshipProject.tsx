@@ -26,7 +26,7 @@ export default function FlagshipProject() {
       val: "4-WHEEL",
       label: "THERMAL KINETICS",
       desc: "Independent cornering/braking heat flux transfer.",
-      hover: "ASYMMETRIC LOAD: T8 VALIDATED",
+      hover: "ASYMMETRIC LOAD: T8 OBSERVED",
     },
   ];
 
